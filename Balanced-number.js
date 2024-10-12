@@ -61,3 +61,5 @@ function balancedNum(number) {
   ? 'Balanced' 
   : 'Not Balanced';
 }
+
+// or
